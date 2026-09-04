@@ -4,7 +4,7 @@
 
 | Roll No. | Name | GitHub username |
 |---|---|---|
-| 24ESK084 | Bharat Dhakad | Bharatkr006 |
+| 24ESK084 | Bharat Kumar Sand | Bharatkr006 |
 
 ## About
 
