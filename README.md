@@ -4,7 +4,7 @@
 
 | Roll No. | Name | GitHub username |
 |---|---|---|
-| 24ESK084 | Bharat Kumar Sand | Bharatkr006 |
+| 24ESK084 | Bharat Kumar Sand| Bharatkr006 |
 
 ## About
 
@@ -12,9 +12,9 @@ CraftCV is a full-stack web app for building a personal portfolio from ready-mad
 
 ## Tech stack
 
-- Frontend: React, React Router, Tailwind CSS, Axios
-- Backend: Node.js, Express.js
-- Database: MongoDB with Mongoose
+- Frontend: React, Vite, Tailwind CSS
+- Backend: None (frontend only)
+- Database: None
 
 ## Running locally
 
