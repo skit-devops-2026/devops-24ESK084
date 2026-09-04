@@ -1,23 +1,20 @@
-# <Project Name>
-
-> Replace every angle-bracket placeholder below. The hygiene check in CI will
-> fail until you do.
+# CraftCV
 
 ## Author
 
 | Roll No. | Name | GitHub username |
 |---|---|---|
-| <roll> | <name> | <username> |
+| 24ESK084 | Bharat Dhakad | Bharatkr006 |
 
 ## About
 
-<Two or three sentences on what this application does.>
+CraftCV is a full-stack web app for building a personal portfolio from ready-made templates. Fill in your details, preview your portfolio live, save it, and share it via a public link. It also includes an Explore page to browse sample and community-built portfolios for inspiration.
 
 ## Tech stack
 
-- Frontend: <e.g. React>
-- Backend: <e.g. Node.js / Express>
-- Database: <e.g. PostgreSQL>
+- Frontend: React, React Router, Tailwind CSS, Axios
+- Backend: Node.js, Express.js
+- Database: MongoDB with Mongoose
 
 ## Running locally
 
